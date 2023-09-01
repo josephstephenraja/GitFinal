@@ -1,0 +1,9 @@
+package org.TestScripts;
+
+import locators.PageElement;
+import utilities.BaseClass;
+
+public class Settings extends BaseClass implements PageElement{
+	
+
+}

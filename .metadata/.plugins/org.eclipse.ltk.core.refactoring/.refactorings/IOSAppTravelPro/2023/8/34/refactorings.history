@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;IOSAppTravelPro/test-output/TravelTaxDay.html&apos; to &apos;TravelTaxDay_27.html&apos;" description="Rename resource &apos;TravelTaxDay.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="test-output/TravelTaxDay.html" name="TravelTaxDay_27.html" stamp="1693079710647" updateReferences="true"/>
+</session>
